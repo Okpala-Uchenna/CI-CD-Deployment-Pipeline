@@ -1,0 +1,12 @@
+{
+    "name": "ci-cd-gh-pages",
+    "version": "1.0.0",
+    "scripts": {
+      "lint": "eslint src/*.js",
+      "test": "node tests/test.js"
+    },
+    "devDependencies": {
+      "eslint": "^8.56.0"
+    }
+  }
+  
